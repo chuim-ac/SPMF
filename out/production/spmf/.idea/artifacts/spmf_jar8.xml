@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spmf:jar8">
+    <output-path>$PROJECT_DIR$/out/artifacts/spmf_jar8</output-path>
+    <root id="archive" name="spmf.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../spmf8/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="spmf" />
+    </root>
+  </artifact>
+</component>
