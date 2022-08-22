@@ -1,5 +1,6 @@
 # SPMF
-Comparable codes can be run from SPMF/ca/pfv/spmf/test
+Comparable codes can be run from SPMF/ca/pfv/spmf/test.
+
 When using this open source library please access source codes from official website https://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php
 Besides, if SPMF is used in a scientific publication, please cite the following publication:
 
